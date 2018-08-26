@@ -1,0 +1,18 @@
+1
+IsLocalDSO.clsLocalMaster  =》DataStoreObject4Oracle
+2
+dbPCO97Master =》dbPCO97Server
+
+
+'ADD START FANLF 2018/08/15 R1200HR-徳島大-RPQ-処方008 院外処方箋のレイアウトを変更する
+    
+'ADD END   FANLF 2018/08/15 R1200HR-徳島大-RPQ-処方008 院外処方箋のレイアウトを変更する
+
+'ADD START FANLF 2018/08/15 R1200HR-徳島大-RPQ-処方008 院外処方箋のレイアウトを変更する
+Private cdsoResultItem          As Object
+Private cdsoSpecResult          As Object
+'ADD END   FANLF 2018/08/15 R1200HR-徳島大-RPQ-処方008 院外処方箋のレイアウトを変更する
+
+
+
+.rc 3464 3465 3466  
